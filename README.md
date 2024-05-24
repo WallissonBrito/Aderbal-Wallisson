@@ -1,9 +1,9 @@
 ### Olá! Seja bem vindo! 👋 Eu sou o Aderbal Wallisson
 
-🎓 Engenheiro Civil explorando o mundo dos dados.
-🌱 Analista de Dados em formação para se tornar um Cientista de Dados.
-⭐ Apaixonado por usar dados para resolver problemas de negócios.
-🤩 Interessado em: Python | Ciência de dados | Análise de dados | Machine Learning | Inteligência Artificial | SQL | Resolução de problemas de negócio  
+- 🎓 Engenheiro Civil explorando o mundo dos dados.
+- 🌱 Analista de Dados em formação para se tornar um Cientista de Dados.
+- ⭐ Apaixonado por usar dados para resolver problemas de negócios.
+- 🤩 Interessado em: Python | Ciência de dados | Análise de dados | Machine Learning | Inteligência Artificial | SQL | Resolução de problemas de negócio  
 ##
   
 <div style="display: inline_block"><br>
